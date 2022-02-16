@@ -22,7 +22,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/thachi/scala-library-sample001</url>
+      <url>https://maven.pkg.github.com/thachi/java-library-sample001</url>
     </repository>
   </distributionManagement>
 
